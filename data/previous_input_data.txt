@@ -1,0 +1,12 @@
+Locador:next:
+CPF:next:
+Endereço:next:
+Locatário:next:
+Ínicio do primeiro recibo:next://
+Vencimento do primeiro recibo:next://
+O primeiro recibo:next:
+Serão gerados:next:
+Registro da água:next:
+Cidade                                :next:
+Custo do aluguel               :next:
+Capa:next:1
