@@ -1,0 +1,12 @@
+Locador:next:HÉLIO DUQUE COSTA
+CPF:next:763.498.297-00
+Endereço:next:
+Locatário:next:JOSÉ DE OLIVEIRA
+Ínicio do primeiro recibo:next:10/1/2020
+Vencimento do primeiro recibo:next:15/2/2020
+O primeiro recibo:next:1
+Serão gerados:next:12
+Registro da água:next:600034
+Cidade                                :next:Resende
+Custo do aluguel               :next:R$500,00
+Capa:next:1
