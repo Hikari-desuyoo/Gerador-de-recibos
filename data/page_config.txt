@@ -1,12 +1,12 @@
-locatario,40,1129,205
-locatario,40, 250,150
-local,40,1025,303
-periodo,40,1075,402 
-periodo,40,257,495  
-vencimento,40,1836,402
-vencimento,33,451,587
-valor,40,1035,448
-numero,60,323,748
-numero,60,937,748
-locador_e_cpf,35,1418,684
-inicio,45,2058,763
+locatario,40,1129,205,57
+locatario,40, 250,150,19
+local,40,1025,303,60
+periodo,40,1075,402,
+periodo,40,257,495,
+vencimento,40,1836,402,
+vencimento,33,451,587,
+valor,40,1035,448,
+numero,60,323,748,
+numero,60,937,748,
+locador_e_cpf,35,1418,684,
+inicio,45,2058,763,

@@ -9,4 +9,4 @@ Serão gerados:next:
 Registro da água:next:
 Cidade                                :next:
 Custo do aluguel               :next:
-Capa:next:1
+Capa:next:0
